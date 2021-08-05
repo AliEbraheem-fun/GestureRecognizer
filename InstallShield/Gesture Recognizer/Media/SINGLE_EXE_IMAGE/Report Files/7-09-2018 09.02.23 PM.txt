@@ -1,0 +1,697 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        13
+		Components:			        20
+		Number of Files:		       408
+		Size of Files:   		     116886948
+		Size in Library:		      31533267
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			DefaultFeature
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>0x0409 OS Independent Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\DefaultFeature*
+
+		Component
+		------------------------------------------------------
+		"DefaultComponent"
+		"Files"
+		"Files1"
+		"Files2"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        223327
+		Size in Library:		        223327
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             07/09/2018  09:02:04 PM       223327  ""                 "A"           "3bffb5d976d416a2b9353cbc3120270b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         11493
+		Size in Library:		          2605
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"license.rtf"                                           11/28/2004  10:52:18 AM        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "c:\program files (x86)\installshield\2010\redist\0409\license.rtf"
+
+><Support>0x0409 OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           125
+		Size in Library:		            99
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          07/09/2018  09:02:10 PM           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\users\ali-work\appdata\local\temp\fontdata.ini"
+		"difxdata.ini"                                          07/09/2018  09:02:10 PM           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\users\ali-work\appdata\local\temp\difxdata.ini"
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17909
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          03/07/2006  12:55:04 AM        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   06/10/2009  03:57:52 PM        11080  "16.0.0.328"       "A"           "94b6f434210bfad6abdcf818b8cf350f"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        239416
+		Size in Library:		        103979
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  03:59:18 PM       239416  "16.0.0.328"       "A"           "38eb6c08e3e7e385255119c8c732fa99"      "c:\program files (x86)\installshield\2010\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        107320
+		Size in Library:		         52026
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  03:59:18 PM       107320  "16.0.0.328"       "A"           "41cb698f967b4d9f2580ea2a21a5a710"      "c:\program files (x86)\installshield\2010\redist\language independent\x64\isbew64.exe"
+
+><Support>0x0409 String Tables<
+
+		Size of Files:   		           622
+		Size in Library:		           234
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable_0x0409.ips"                                07/09/2018  09:02:04 PM          622  ""                 "A"           "a7eb840b45dd7b1c2bb5e00d4731f120"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\string tables\stringtable_0x0409.ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        262592
+		Size in Library:		        253568
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              09/22/2009  02:08:46 AM       261424  "16.0.0.400"       "A"           "ed5aa645392883b21507c8d097fda277"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           03/07/2006  12:55:02 AM         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\default.pal"
+
+><Support>0x0409 Files<
+
+		Size of Files:   		        553067
+		Size in Library:		        118709
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres_0x0409.dll"                                     06/10/2009  03:16:34 PM       553067  "16.0.0.328"       "A"           "8938d3d18b09e92eeb9c403593365eb0"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\_isres_0x0409.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\layout.bin"
+		"data1.hdr"                                             11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.hdr"
+		"data1.cab"                                             11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1401334
+		Size in Library:		       1401334
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             07/09/2018  09:02:10 PM       802816  "16.0.0.400"       "A"           "07c90b494645f1a143d934139f49264a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\setup.exe"
+		"issetup.dll"                                           09/22/2009  02:08:46 AM       577024  "16.0.0.400"       ""            "1bf0fc52d41be3f3c1025b3971bc49a0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\issetup.dll"
+		"0x0409.ini"                                            05/21/2009  04:53:56 PM        21494  ""                 "A"           "36affbd6ff77d1515cfc1c5e998fbaf9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\0x0409.ini"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        223327
+		Size in Library:		        223327
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             07/09/2018  09:02:04 PM       223327  ""                 "A"           "3bffb5d976d416a2b9353cbc3120270b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		          1227
+		Size in Library:		          1227
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             07/09/2018  09:02:10 PM         1227  ""                 "A"           "f21a4e1c92e380885aa1723d79fd6912"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\setup.ini"
+
+>DefaultComponent<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+>Files<
+
+		Size of Files:   		       2106216
+		Size in Library:		        955484
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"d3dcompiler_43.dll"                                    05/26/2010  09:41:02 PM      2106216  "9.29.952.3111"    "A"           "1c9b45e87528b8bb8cfa884ea0099a85"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\d3dcompiler_43.dll"
+
+>Files1<
+
+		Size of Files:   		      34991806
+		Size in Library:		      12382086
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"gesturerecognizergui.exe"                              06/22/2018  05:41:38 PM       312846  ""                 "A"           "de4aeb80ccbc4a3bf213d0e4903cbb77"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\gesturerecognizergui.exe"
+		"libgcc_s_dw2-1.dll"                                    12/29/2015  01:25:50 AM       120334  ""                 "A"           "043b39434829ce93637b1801d57b2082"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libgcc_s_dw2-1.dll"
+		"libopencv_core330.dll"                                 11/29/2017  10:03:02 PM      4617661  "3.3.0.0"          "A"           "bcc0f65662c5fc54fbb15b6e84f4bae2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_core330.dll"
+		"libopencv_highgui330.dll"                              11/29/2017  10:15:54 PM       755741  "3.3.0.0"          "A"           "8124d0f8cf6206b34515967e67209659"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_highgui330.dll"
+		"libopencv_imgcodecs330.dll"                            11/29/2017  10:13:28 PM      3803254  "3.3.0.0"          "A"           "6982c61dbd4a51bec891d42735fdcd8c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgcodecs330.dll"
+		"libopencv_imgproc330.dll"                              11/29/2017  10:08:14 PM      4988926  "3.3.0.0"          "A"           "a14e81d44e2bfd8268acf8e8afd1672f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgproc330.dll"
+		"libopencv_ml330.dll"                                   11/29/2017  10:05:22 PM      1245390  "3.3.0.0"          "A"           "267bb9497e353703cc89fa0732ac4a5e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_ml330.dll"
+		"libopencv_objdetect330.dll"                            11/29/2017  10:10:08 PM       864455  "3.3.0.0"          "A"           "32094843b83489330d35da469a7c9a32"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_objdetect330.dll"
+		"libopencv_videoio330.dll"                              11/29/2017  10:14:56 PM       667313  "3.3.0.0"          "A"           "85a79c3d2f1fa6a8c93a0c6c06b70685"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_videoio330.dll"
+		"libstdc++-6.dll"                                       12/29/2015  01:25:50 AM      1540622  ""                 "A"           "63b4f37587334014fda842a04b1baae4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libstdc++-6.dll"
+		"libwinpthread-1.dll"                                   12/29/2015  01:25:50 AM        79360  "1.0.0.0"          "A"           "a8b06665266ff02d5e9847ad828f9ee0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libwinpthread-1.dll"
+		"opengl32sw.dll"                                        06/14/2016  04:08:08 PM     15995904  ""                 "A"           "8b197f55264a44b7b25046f7ba5bd7d2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\opengl32sw.dll"
+
+>Files2<
+
+		Size of Files:   		      76688493
+		Size in Library:		      15797353
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"d3dcompiler_43.dll"                                    05/26/2010  09:41:02 PM      2106216  "9.29.952.3111"    "A"           "1c9b45e87528b8bb8cfa884ea0099a85"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\d3dcompiler_43.dll"
+		"d3dcompiler_47.dll"                                    04/28/2017  01:50:12 AM      3550208  "6.3.9600.18611"   "A"           "960ae99a15b1c8c9fbddde97606478f9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\d3dcompiler_47.dll"
+		"gesturerecognizergui.exe"                              06/22/2018  05:41:38 PM       312846  ""                 "A"           "de4aeb80ccbc4a3bf213d0e4903cbb77"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\gesturerecognizergui.exe"
+		"qt5core.dll"                                           07/09/2018  08:51:20 PM      6071808  "5.9.0.0"          "A"           "13e9438a92212c3611f57414f53570e8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5core.dll"
+		"qt5gui.dll"                                            05/26/2017  04:17:56 PM      6202368  "5.9.0.0"          "A"           "bb3d36cee1326171a21f0a5712052421"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5gui.dll"
+		"qt5multimedia.dll"                                     05/26/2017  08:43:32 PM      1003520  "5.9.0.0"          "A"           "2acb891650f39eec2cee805dcd996c06"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5multimedia.dll"
+		"qt5network.dll"                                        05/26/2017  04:10:12 PM      1795072  "5.9.0.0"          "A"           "af3a5c4b3500380bcdbb91c88c8e1dfe"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5network.dll"
+		"qt5opengl.dll"                                         05/26/2017  04:28:32 PM       331264  "5.9.0.0"          "A"           "11c13379bfe0861b5521ea946e20dba0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5opengl.dll"
+		"qt5svg.dll"                                            05/26/2017  06:50:38 PM       359424  "5.9.0.0"          "A"           "1ba8ae8ec878cfde098c4367151d9a6f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5svg.dll"
+		"qt5test.dll"                                           05/26/2017  04:27:40 PM       244736  "5.9.0.0"          "A"           "4b368d5792bb7ea0f326345d171355b3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5test.dll"
+		"qt5texttospeech.dll"                                   05/26/2017  09:03:30 PM        50176  "5.9.0.0"          "A"           "a5d34f9d17832344f8704b0f7f6ad16b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5texttospeech.dll"
+		"qt5widgets.dll"                                        05/26/2017  04:26:00 PM      6353408  "5.9.0.0"          "A"           "c3a3ebf8c33290eebab58904e4bb24c2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5widgets.dll"
+		"qt5xml.dll"                                            05/26/2017  04:09:14 PM       216064  "5.9.0.0"          "A"           "190f1a7879131cfdd8a67a7910d8d1e5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\qt5xml.dll"
+		"samplegenerator.exe"                                   06/22/2018  05:45:12 PM        65550  ""                 "A"           "36d7f7330ebbff1f8288a15fd6206987"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\samplegenerator.exe"
+		"filelist.xml"                                          06/20/2018  06:31:28 AM          356  ""                 "A"           "a8833d7e51e42bb1082bbbc8d50b5ad6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\filelist.xml"
+		"libegl.dll"                                            05/26/2017  04:08:56 PM        22016  ""                 "A"           "ee99e50ddbf20e043f75e44bf5310646"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libegl.dll"
+		"libglesv2.dll"                                         05/26/2017  04:08:08 PM      2801664  ""                 "A"           "0e29e4f30b42dbda5dd23a08be6a9192"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libglesv2.dll"
+		"libgcc_s_dw2-1.dll"                                    12/29/2015  01:25:50 AM       120334  ""                 "A"           "043b39434829ce93637b1801d57b2082"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libgcc_s_dw2-1.dll"
+		"libopencv_core330.dll"                                 11/29/2017  10:03:02 PM      4617661  "3.3.0.0"          "A"           "bcc0f65662c5fc54fbb15b6e84f4bae2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_core330.dll"
+		"libopencv_highgui330.dll"                              11/29/2017  10:15:54 PM       755741  "3.3.0.0"          "A"           "8124d0f8cf6206b34515967e67209659"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_highgui330.dll"
+		"libopencv_imgcodecs330.dll"                            11/29/2017  10:13:28 PM      3803254  "3.3.0.0"          "A"           "6982c61dbd4a51bec891d42735fdcd8c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgcodecs330.dll"
+		"libopencv_imgproc330.dll"                              11/29/2017  10:08:14 PM      4988926  "3.3.0.0"          "A"           "a14e81d44e2bfd8268acf8e8afd1672f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgproc330.dll"
+		"libopencv_ml330.dll"                                   11/29/2017  10:05:22 PM      1245390  "3.3.0.0"          "A"           "267bb9497e353703cc89fa0732ac4a5e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_ml330.dll"
+		"libopencv_objdetect330.dll"                            11/29/2017  10:10:08 PM       864455  "3.3.0.0"          "A"           "32094843b83489330d35da469a7c9a32"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_objdetect330.dll"
+		"libopencv_videoio330.dll"                              11/29/2017  10:14:56 PM       667313  "3.3.0.0"          "A"           "85a79c3d2f1fa6a8c93a0c6c06b70685"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_videoio330.dll"
+		"libstdc++-6.dll"                                       12/29/2015  01:25:50 AM      1540622  ""                 "A"           "63b4f37587334014fda842a04b1baae4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libstdc++-6.dll"
+		"libwinpthread-1.dll"                                   12/29/2015  01:25:50 AM        79360  "1.0.0.0"          "A"           "a8b06665266ff02d5e9847ad828f9ee0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libwinpthread-1.dll"
+		"opengl32sw.dll"                                        06/14/2016  04:08:08 PM     15995904  ""                 "A"           "8b197f55264a44b7b25046f7ba5bd7d2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\opengl32sw.dll"
+		"data\a\a_0.bmp"                                        02/24/2018  09:17:04 AM        11078  ""                 "A"           "8e8ee787b10fc58613ba6999371c279a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_0.bmp"
+		"data\a\a_1.bmp"                                        02/24/2018  09:17:08 AM        11078  ""                 "A"           "fcfa099b68815eaa447170b6366d953b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_1.bmp"
+		"data\a\a_2.bmp"                                        02/24/2018  09:17:10 AM        11078  ""                 "A"           "b53037e996c69af79cb9fa076bd454a6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_2.bmp"
+		"data\a\a_3.bmp"                                        02/24/2018  09:17:30 AM        11078  ""                 "A"           "66448ba9d22880925e627675bb926856"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_3.bmp"
+		"data\a\a_4.bmp"                                        02/24/2018  09:17:34 AM        11078  ""                 "A"           "636abbb0a898546fd84344c2e3ae67e0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_4.bmp"
+		"data\a\a_5.bmp"                                        02/24/2018  09:17:42 AM        11078  ""                 "A"           "2b28b91a5d7e0b8469d686ec33328378"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_5.bmp"
+		"data\a\a_6.bmp"                                        02/24/2018  09:19:38 AM        11078  ""                 "A"           "adba8258566772c2b4d2af0fde7102e9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_6.bmp"
+		"data\a\a_7.bmp"                                        02/24/2018  09:19:42 AM        11078  ""                 "A"           "e8eaf0941fd83424ce4c71926daad50c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_7.bmp"
+		"data\a\a_8.bmp"                                        02/24/2018  09:19:44 AM        11078  ""                 "A"           "50ae47f6f7358c96d6a47e4b09621144"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_8.bmp"
+		"data\a\a_9.bmp"                                        02/24/2018  09:19:50 AM        11078  ""                 "A"           "b399ec0d80ea1cec3f2199f512666039"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\a\a_9.bmp"
+		"data\b\b0.bmp"                                         06/08/2018  04:03:56 PM        11078  ""                 "A"           "447345b8503415af670dd0c6b465f2f3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b0.bmp"
+		"data\b\b1.bmp"                                         06/08/2018  04:03:56 PM        11078  ""                 "A"           "435d3219af04e2ce9f4a65fa76ecad09"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b1.bmp"
+		"data\b\b2.bmp"                                         06/08/2018  04:03:56 PM        11078  ""                 "A"           "22c29a9a0cf971d9b539461dc679bdff"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b2.bmp"
+		"data\b\b3.bmp"                                         06/08/2018  04:03:58 PM        11078  ""                 "A"           "865591ca299ac91ca16502cc7c4c48cb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b3.bmp"
+		"data\b\b4.bmp"                                         06/08/2018  04:03:58 PM        11078  ""                 "A"           "a08c5f4772665ae5f4b19bee21ab7b67"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b4.bmp"
+		"data\b\b5.bmp"                                         06/08/2018  04:04:00 PM        11078  ""                 "A"           "06b4e3b862030b3beac98a9dad9a27de"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b5.bmp"
+		"data\b\b6.bmp"                                         06/08/2018  04:04:00 PM        11078  ""                 "A"           "847cbd9fb175c456e8bf542a4455cb52"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b6.bmp"
+		"data\b\b7.bmp"                                         06/08/2018  04:04:00 PM        11078  ""                 "A"           "8c03ef9a747c4a400fc8cb52b32f7f1a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b7.bmp"
+		"data\b\b8.bmp"                                         06/08/2018  04:04:04 PM        11078  ""                 "A"           "9c3d88b424c77f93ac06ac3f74cb1ad5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b8.bmp"
+		"data\b\b9.bmp"                                         06/08/2018  04:04:04 PM        11078  ""                 "A"           "cfb219fc1d62ef208bf0dad2b6405d01"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\b\b9.bmp"
+		"data\c\c_0.bmp"                                        02/24/2018  12:41:50 PM        11078  ""                 "A"           "192bb44a205c239c315ba45992601a31"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_0.bmp"
+		"data\c\c_1.bmp"                                        02/24/2018  12:41:52 PM        11078  ""                 "A"           "43e7ce82aae334380db52b7fda5a93fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_1.bmp"
+		"data\c\c_2.bmp"                                        02/24/2018  12:41:58 PM        11078  ""                 "A"           "19c3beb79e2ab7d99f300a34707c3da5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_2.bmp"
+		"data\c\c_3.bmp"                                        02/24/2018  12:42:00 PM        11078  ""                 "A"           "90f94a94803d6d0010b9425f3eb80c8e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_3.bmp"
+		"data\c\c_4.bmp"                                        02/24/2018  12:42:04 PM        11078  ""                 "A"           "968370f8e7982e9617e02801481d0d00"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_4.bmp"
+		"data\c\c_5.bmp"                                        02/24/2018  12:42:04 PM        11078  ""                 "A"           "24d086c9a9f259eae3ccdd1d31287e36"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_5.bmp"
+		"data\c\c_6.bmp"                                        02/24/2018  12:42:06 PM        11078  ""                 "A"           "6d4ec081a46b537e85b94bce3a76718a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_6.bmp"
+		"data\c\c_7.bmp"                                        02/24/2018  12:42:08 PM        11078  ""                 "A"           "dbd26bcfc1b733046d6bffbeea90825f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_7.bmp"
+		"data\c\c_8.bmp"                                        02/24/2018  12:42:08 PM        11078  ""                 "A"           "2f8418e892bf7bd41c09e523a358dc76"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_8.bmp"
+		"data\c\c_9.bmp"                                        02/24/2018  12:42:10 PM        11078  ""                 "A"           "285a4c91cb5b49d190b8922e942f7e73"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\c\c_9.bmp"
+		"data\d\d_0.bmp"                                        02/24/2018  12:45:16 PM        11078  ""                 "A"           "b282b2e3373f382c3e95bc1fcdb15234"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_0.bmp"
+		"data\d\d_1.bmp"                                        02/24/2018  12:45:18 PM        11078  ""                 "A"           "87b8ac16d4794c9a1774989b6a954c15"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_1.bmp"
+		"data\d\d_2.bmp"                                        02/24/2018  12:45:20 PM        11078  ""                 "A"           "f060967f5d432a0ee47ff0eed2800787"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_2.bmp"
+		"data\d\d_3.bmp"                                        02/24/2018  12:45:20 PM        11078  ""                 "A"           "c4e2d125c1afea4bc22bb6667072a510"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_3.bmp"
+		"data\d\d_4.bmp"                                        02/24/2018  12:45:22 PM        11078  ""                 "A"           "ded2f6fe5e803ad6837270f2b87852e6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_4.bmp"
+		"data\d\d_5.bmp"                                        02/24/2018  12:45:22 PM        11078  ""                 "A"           "ccc3a23a24231c5b7fc2588663d4f582"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_5.bmp"
+		"data\d\d_6.bmp"                                        02/24/2018  12:45:24 PM        11078  ""                 "A"           "854f2288f7f5b7eb03a1c563de8be0cd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_6.bmp"
+		"data\d\d_7.bmp"                                        02/24/2018  12:45:26 PM        11078  ""                 "A"           "744a615283c5930cfc79d454c9efc785"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_7.bmp"
+		"data\d\d_8.bmp"                                        02/24/2018  12:45:28 PM        11078  ""                 "A"           "f752b926ac1d85cdc4a5f9cea75a5ff5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_8.bmp"
+		"data\d\d_9.bmp"                                        02/24/2018  12:45:28 PM        11078  ""                 "A"           "9d74dfaad47135981333fbd7ae88dd29"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\d\d_9.bmp"
+		"data\e\e_0.bmp"                                        02/24/2018  12:53:14 PM        11078  ""                 "A"           "809ee498da64b34a0e7dd368bf89e0c0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_0.bmp"
+		"data\e\e_1.bmp"                                        02/24/2018  12:53:14 PM        11078  ""                 "A"           "26541d79a5a8b9df64833f370862d86d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_1.bmp"
+		"data\e\e_2.bmp"                                        02/24/2018  12:53:14 PM        11078  ""                 "A"           "4b5c3e4c669deed38cde67c08cf6f8cc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_2.bmp"
+		"data\e\e_3.bmp"                                        02/24/2018  12:53:14 PM        11078  ""                 "A"           "737fd275689654c51bf9bc4daddc7a0f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_3.bmp"
+		"data\e\e_4.bmp"                                        02/24/2018  12:53:16 PM        11078  ""                 "A"           "289baffd7ae5953d608c8b52380ed2b0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_4.bmp"
+		"data\e\e_5.bmp"                                        02/24/2018  12:53:16 PM        11078  ""                 "A"           "644e4e9b9e8d369120c85780df2b0898"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_5.bmp"
+		"data\e\e_6.bmp"                                        02/24/2018  12:53:16 PM        11078  ""                 "A"           "60d37037f2a3e50b471cce986115a033"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_6.bmp"
+		"data\e\e_7.bmp"                                        02/24/2018  12:53:18 PM        11078  ""                 "A"           "2b577a723c79f89cba14afa67a4c0103"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_7.bmp"
+		"data\e\e_8.bmp"                                        02/24/2018  12:53:18 PM        11078  ""                 "A"           "23a0d38c0381e55d3f2a9bad883150d3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_8.bmp"
+		"data\e\e_9.bmp"                                        02/24/2018  12:53:18 PM        11078  ""                 "A"           "52045ac4917b7ecb3bda73ff3afdd814"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\e\e_9.bmp"
+		"data\f\f_0.bmp"                                        02/24/2018  12:57:32 PM        11078  ""                 "A"           "03fb9e067fb799c4906a22a9c20383e0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_0.bmp"
+		"data\f\f_1.bmp"                                        02/24/2018  12:57:34 PM        11078  ""                 "A"           "388ca242d6d25bee8c0169d3de9c8155"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_1.bmp"
+		"data\f\f_2.bmp"                                        02/24/2018  12:57:36 PM        11078  ""                 "A"           "e4c60bd1054a406f0c1513f02a556c80"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_2.bmp"
+		"data\f\f_3.bmp"                                        02/24/2018  12:57:36 PM        11078  ""                 "A"           "c618efda840d43127c4b6f651ef8e9fe"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_3.bmp"
+		"data\f\f_4.bmp"                                        02/24/2018  12:57:38 PM        11078  ""                 "A"           "5c9823cd726723e340d323ba9fca85fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_4.bmp"
+		"data\f\f_5.bmp"                                        02/24/2018  12:57:38 PM        11078  ""                 "A"           "476d3b274b8f4deda03d8b10dbf39aae"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_5.bmp"
+		"data\f\f_6.bmp"                                        02/24/2018  12:57:44 PM        11078  ""                 "A"           "80abef40deb9f6134996c430759915af"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_6.bmp"
+		"data\f\f_7.bmp"                                        02/24/2018  12:57:48 PM        11078  ""                 "A"           "306eb0b6127c69c65b81c28b78afad85"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_7.bmp"
+		"data\f\f_8.bmp"                                        02/24/2018  12:57:50 PM        11078  ""                 "A"           "d11fb46c6c17657487f46c93c498daed"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_8.bmp"
+		"data\f\f_9.bmp"                                        02/24/2018  12:57:52 PM        11078  ""                 "A"           "381a11fa7bde02200d27b705314f9de9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\f\f_9.bmp"
+		"data\g\g_0.bmp"                                        02/24/2018  01:19:44 PM        11078  ""                 "A"           "ce6c003a71dd20ce45b0f80a12c1f110"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_0.bmp"
+		"data\g\g_1.bmp"                                        02/24/2018  01:19:46 PM        11078  ""                 "A"           "3aef327b7af1cf651dd0affb7c704c91"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_1.bmp"
+		"data\g\g_2.bmp"                                        02/24/2018  01:19:46 PM        11078  ""                 "A"           "3d9b785cb3b3c35e250182ac6baa46d0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_2.bmp"
+		"data\g\g_3.bmp"                                        02/24/2018  01:19:48 PM        11078  ""                 "A"           "56a07f8cb85206ae8783ee6440ad6f95"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_3.bmp"
+		"data\g\g_4.bmp"                                        02/24/2018  01:19:48 PM        11078  ""                 "A"           "1b468de830f1cd731b1cb2491c010dd2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_4.bmp"
+		"data\g\g_5.bmp"                                        02/24/2018  01:19:50 PM        11078  ""                 "A"           "f4c0c5db5e25474822fc365cbbbfae3b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_5.bmp"
+		"data\g\g_6.bmp"                                        02/24/2018  01:19:50 PM        11078  ""                 "A"           "620d1f452d0a6cfe5297549fe401d846"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_6.bmp"
+		"data\g\g_7.bmp"                                        02/24/2018  01:19:50 PM        11078  ""                 "A"           "2509cfb93eb675f4ff0928e0af4490ec"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_7.bmp"
+		"data\g\g_8.bmp"                                        02/24/2018  01:19:52 PM        11078  ""                 "A"           "4bdd008af1fea60d77446940462ef68a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_8.bmp"
+		"data\g\g_9.bmp"                                        02/24/2018  01:19:52 PM        11078  ""                 "A"           "f132da02956d8783d083fd1f5e20ac9f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\g\g_9.bmp"
+		"data\h\h_0.bmp"                                        02/24/2018  01:22:16 PM        11078  ""                 "A"           "0c38add98323a5cd2526b563b6f0714a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_0.bmp"
+		"data\h\h_1.bmp"                                        02/24/2018  01:22:16 PM        11078  ""                 "A"           "2b637fe110aafbd7c8b141526b3771ba"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_1.bmp"
+		"data\h\h_2.bmp"                                        02/24/2018  01:22:16 PM        11078  ""                 "A"           "ce41754c6c55b7ef94d25a9a543f6862"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_2.bmp"
+		"data\h\h_3.bmp"                                        02/24/2018  01:22:16 PM        11078  ""                 "A"           "1493f1d93f9fbd7bdc7600ff8a432f3e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_3.bmp"
+		"data\h\h_4.bmp"                                        02/24/2018  01:22:18 PM        11078  ""                 "A"           "369c4ce0a35e5b949d1572d541e96d17"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_4.bmp"
+		"data\h\h_5.bmp"                                        02/24/2018  01:22:18 PM        11078  ""                 "A"           "be8631ef91c450bc9fbd1d8ffacff44a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_5.bmp"
+		"data\h\h_6.bmp"                                        02/24/2018  01:22:20 PM        11078  ""                 "A"           "f9ff562a4b94dcacc5d9e25a162d3d08"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_6.bmp"
+		"data\h\h_7.bmp"                                        02/24/2018  01:22:20 PM        11078  ""                 "A"           "eba14246c7f66929461222f4f0e88b55"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_7.bmp"
+		"data\h\h_8.bmp"                                        02/24/2018  01:22:22 PM        11078  ""                 "A"           "4e59acbea49b80c923fe75b0ce1df3fc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_8.bmp"
+		"data\h\h_9.bmp"                                        02/24/2018  01:22:22 PM        11078  ""                 "A"           "bb1b1226f01ccf23083ed1c4d542d7db"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\h\h_9.bmp"
+		"data\i\i_0.bmp"                                        02/24/2018  01:28:52 PM        11078  ""                 "A"           "6aa6dcd846cb7c507fa142ea4779ec79"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_0.bmp"
+		"data\i\i_1.bmp"                                        02/24/2018  01:28:54 PM        11078  ""                 "A"           "62922bbc91f49e8b69cc33153e41b286"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_1.bmp"
+		"data\i\i_2.bmp"                                        02/24/2018  01:28:54 PM        11078  ""                 "A"           "519f79f4bd2081661ce04d0cdb7054f3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_2.bmp"
+		"data\i\i_3.bmp"                                        02/24/2018  01:28:56 PM        11078  ""                 "A"           "3639639553cc7c37787fefebb2ea0414"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_3.bmp"
+		"data\i\i_4.bmp"                                        02/24/2018  01:28:56 PM        11078  ""                 "A"           "f890aa5c2adb4b3340a6c02ca804641b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_4.bmp"
+		"data\i\i_5.bmp"                                        02/24/2018  01:28:56 PM        11078  ""                 "A"           "2c2a76f968c83f71d5ce1ce455bbd50a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_5.bmp"
+		"data\i\i_6.bmp"                                        02/24/2018  01:28:56 PM        11078  ""                 "A"           "1b9bff0612726a2374641ac494630f6f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_6.bmp"
+		"data\i\i_7.bmp"                                        02/24/2018  01:28:58 PM        11078  ""                 "A"           "0472808ed1a2ca12d8af7db5e8374588"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_7.bmp"
+		"data\i\i_8.bmp"                                        02/24/2018  01:29:00 PM        11078  ""                 "A"           "86afa9dd5a324a4647cc521aa649dd10"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_8.bmp"
+		"data\i\i_9.bmp"                                        02/24/2018  01:29:00 PM        11078  ""                 "A"           "9f69160793a669991d30f24d95886871"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\i\i_9.bmp"
+		"data\j\j_0.bmp"                                        06/21/2018  09:55:18 PM        11078  ""                 "A"           "dfa6ac1164078365cf80206e85fc1ea4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_0.bmp"
+		"data\j\j_1.bmp"                                        06/21/2018  09:55:22 PM        11078  ""                 "A"           "5fb2d8a8cd05c52fe633aea568db3779"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_1.bmp"
+		"data\j\j_10.bmp"                                       06/21/2018  09:56:06 PM        11078  ""                 "A"           "9cfef3b8cda3b1317a43e2223f750969"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_10.bmp"
+		"data\j\j_2.bmp"                                        06/21/2018  09:55:28 PM        11078  ""                 "A"           "3ff4ad22a02c353f1a2bcea5ca2df86c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_2.bmp"
+		"data\j\j_3.bmp"                                        06/21/2018  09:55:28 PM        11078  ""                 "A"           "6952132221326a6313832987bda1f9ec"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_3.bmp"
+		"data\j\j_4.bmp"                                        06/21/2018  09:55:30 PM        11078  ""                 "A"           "9ca51325f8d2ea0cc2e6ec47a9d15323"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_4.bmp"
+		"data\j\j_5.bmp"                                        06/21/2018  09:55:32 PM        11078  ""                 "A"           "c90d72c7c22d8de1699967e92a426e2e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_5.bmp"
+		"data\j\j_6.bmp"                                        06/21/2018  09:55:34 PM        11078  ""                 "A"           "ea061d3b069565c5526a1c080c6ee782"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_6.bmp"
+		"data\j\j_7.bmp"                                        06/21/2018  09:55:38 PM        11078  ""                 "A"           "dad9323d87a4116cae7d17b032f955ee"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_7.bmp"
+		"data\j\j_8.bmp"                                        06/21/2018  09:55:40 PM        11078  ""                 "A"           "6711ba637fc56e1afdb24740368ba605"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_8.bmp"
+		"data\j\j_9.bmp"                                        06/21/2018  09:55:44 PM        11078  ""                 "A"           "70d818b48097b4a8bfe46c0f3b46736d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\j\j_9.bmp"
+		"data\k\k0.bmp"                                         06/21/2018  08:11:00 PM        11078  ""                 "A"           "a2bbdb7b2243024bb36c0ed3eabbeac4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k0.bmp"
+		"data\k\k1.bmp"                                         06/21/2018  08:11:02 PM        11078  ""                 "A"           "24f49cb9d47993158b9841cbe5d53e1a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k1.bmp"
+		"data\k\k10.bmp"                                        06/21/2018  08:11:18 PM        11078  ""                 "A"           "ab0ddc2359bf8deeae8a9fd743a62803"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k10.bmp"
+		"data\k\k2.bmp"                                         06/21/2018  08:11:02 PM        11078  ""                 "A"           "61498df4baf70c111ea2071d0f8fae7a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k2.bmp"
+		"data\k\k3.bmp"                                         06/21/2018  08:11:04 PM        11078  ""                 "A"           "93f9375f36cd273aa0088fa51fd8af8e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k3.bmp"
+		"data\k\k4.bmp"                                         06/21/2018  08:11:06 PM        11078  ""                 "A"           "d80f782a833d4925e2c093280f56fcfe"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k4.bmp"
+		"data\k\k5.bmp"                                         06/21/2018  08:11:08 PM        11078  ""                 "A"           "d528d57b2d575d9fab66de8dd44cbaa6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k5.bmp"
+		"data\k\k6.bmp"                                         06/21/2018  08:11:10 PM        11078  ""                 "A"           "bfbd6d72d3c6301f3cca03c3616d15cd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k6.bmp"
+		"data\k\k7.bmp"                                         06/21/2018  08:11:12 PM        11078  ""                 "A"           "011a06a72d39acf97dc0880f6cf8c78c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k7.bmp"
+		"data\k\k8.bmp"                                         06/21/2018  08:11:14 PM        11078  ""                 "A"           "334637d371f36a0d2c2c003df83fb9e1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k8.bmp"
+		"data\k\k9.bmp"                                         06/21/2018  08:11:16 PM        11078  ""                 "A"           "ca06bd6d581a97b2a77303906554d782"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\k\k9.bmp"
+		"data\l\l_0.bmp"                                        02/24/2018  01:32:06 PM        11078  ""                 "A"           "2387e135577092aedb811a11e44934c8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_0.bmp"
+		"data\l\l_1.bmp"                                        02/24/2018  01:32:08 PM        11078  ""                 "A"           "65cae6841dc38211dcbb90598012ee51"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_1.bmp"
+		"data\l\l_2.bmp"                                        02/24/2018  01:32:10 PM        11078  ""                 "A"           "e05c8a1582f2b25b503dc431841f3119"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_2.bmp"
+		"data\l\l_3.bmp"                                        02/24/2018  01:32:10 PM        11078  ""                 "A"           "ef761a7b11e139af2a2c6369728bd340"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_3.bmp"
+		"data\l\l_4.bmp"                                        02/24/2018  01:32:12 PM        11078  ""                 "A"           "773b5973ffcc83b819e92e13727cade4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_4.bmp"
+		"data\l\l_5.bmp"                                        02/24/2018  01:32:12 PM        11078  ""                 "A"           "186ae865a0bfeede1e64bca0d3d93067"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_5.bmp"
+		"data\l\l_6.bmp"                                        02/24/2018  01:32:14 PM        11078  ""                 "A"           "e65edae6cfb426802c4e5174cf70b938"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_6.bmp"
+		"data\l\l_7.bmp"                                        02/24/2018  01:32:14 PM        11078  ""                 "A"           "06038ab3fb393e5b912cac552a9f6b5d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_7.bmp"
+		"data\l\l_8.bmp"                                        02/24/2018  01:32:14 PM        11078  ""                 "A"           "b22be27837eb167366f537b433c88a23"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_8.bmp"
+		"data\l\l_9.bmp"                                        02/24/2018  01:32:16 PM        11078  ""                 "A"           "e3cb5a2be517ec2b5a9ab34a0799efa2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\l\l_9.bmp"
+		"data\m\m0.bmp"                                         06/08/2018  04:34:42 PM        11078  ""                 "A"           "ad00a7d925941acda147aa05648947c1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m0.bmp"
+		"data\m\m10.bmp"                                        06/08/2018  04:35:06 PM        11078  ""                 "A"           "d6968f62a2e8d9ee01c0fd484eba5fb7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m10.bmp"
+		"data\m\m12.bmp"                                        06/08/2018  04:35:14 PM        11078  ""                 "A"           "13fc644c25e83ae6018f73602ac0f2a2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m12.bmp"
+		"data\m\m13.bmp"                                        06/08/2018  04:35:14 PM        11078  ""                 "A"           "5dff3e9cccaa3ffa5875ccca7ed4e56d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m13.bmp"
+		"data\m\m15.bmp"                                        06/08/2018  04:35:16 PM        11078  ""                 "A"           "cb38d577e9d2cbfffc47b3df0e384eae"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m15.bmp"
+		"data\m\m2.bmp"                                         06/08/2018  04:34:44 PM        11078  ""                 "A"           "0b6280f6911eb6e1040333a932ced34f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m2.bmp"
+		"data\m\m3.bmp"                                         06/08/2018  04:34:46 PM        11078  ""                 "A"           "7495f1621bbb78aebee283c2d49464e5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m3.bmp"
+		"data\m\m5.bmp"                                         06/08/2018  04:34:50 PM        11078  ""                 "A"           "2ef7c9476ebb8f96b1f7740272c36d43"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m5.bmp"
+		"data\m\m7.bmp"                                         06/08/2018  04:35:00 PM        11078  ""                 "A"           "dc1e3a8405d2221279353e09e7a37a1e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m7.bmp"
+		"data\m\m8.bmp"                                         06/08/2018  04:35:00 PM        11078  ""                 "A"           "f1639ab9f3cac4a3b9429ce0994f9875"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\m\m8.bmp"
+		"data\n\n0.bmp"                                         06/21/2018  08:24:50 PM        11078  ""                 "A"           "d9d3c4574b4c76a589ac9ae4a50000e2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n0.bmp"
+		"data\n\n1.bmp"                                         06/21/2018  08:25:38 PM        11078  ""                 "A"           "7ad0229d9148dd8aa4204436b3d31b59"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n1.bmp"
+		"data\n\n10.bmp"                                        06/21/2018  08:25:34 PM        11078  ""                 "A"           "697a5a26cb7cc3faad8df8cd0f3c31fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n10.bmp"
+		"data\n\n2.bmp"                                         06/21/2018  08:24:56 PM        11078  ""                 "A"           "f420171ebf3a2195e8345fbb159ecbf7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n2.bmp"
+		"data\n\n3.bmp"                                         06/21/2018  08:25:00 PM        11078  ""                 "A"           "e9b3aa54901bb06b9521e6ce123407d7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n3.bmp"
+		"data\n\n4.bmp"                                         06/21/2018  08:25:02 PM        11078  ""                 "A"           "6d757ee90adb41d5688175ffdb1a3a6c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n4.bmp"
+		"data\n\n5.bmp"                                         06/21/2018  08:25:02 PM        11078  ""                 "A"           "593685e57d561cc8c2c2c65ddaf97350"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n5.bmp"
+		"data\n\n6.bmp"                                         06/21/2018  08:25:04 PM        11078  ""                 "A"           "29781075bb5eb40757b4395accdb3c77"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n6.bmp"
+		"data\n\n7.bmp"                                         06/21/2018  08:25:06 PM        11078  ""                 "A"           "3af7b1cfb5603327778ea58c0e9bf144"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n7.bmp"
+		"data\n\n8.bmp"                                         06/21/2018  08:25:22 PM        11078  ""                 "A"           "5ed4eb0e2f5722f25547ab3490cda11f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n8.bmp"
+		"data\n\n9.bmp"                                         06/21/2018  08:25:32 PM        11078  ""                 "A"           "efa43bc06398eafd5559a86ebb89a356"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\n\n9.bmp"
+		"data\o\o_0.bmp"                                        02/24/2018  02:42:16 PM        11078  ""                 "A"           "952a5c8995ee12c560d7fa4c56429ac8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_0.bmp"
+		"data\o\o_1.bmp"                                        02/24/2018  02:42:18 PM        11078  ""                 "A"           "ca0bca54886de69fd73dd5c3df6288bf"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_1.bmp"
+		"data\o\o_2.bmp"                                        02/24/2018  02:42:18 PM        11078  ""                 "A"           "72a189d33fb29b8d47aa3fb8c0344bda"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_2.bmp"
+		"data\o\o_3.bmp"                                        02/24/2018  02:42:18 PM        11078  ""                 "A"           "6aba1d09d7e6ef7a029e7e26c2a40b7b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_3.bmp"
+		"data\o\o_4.bmp"                                        02/24/2018  02:42:20 PM        11078  ""                 "A"           "94eae431e137a270337c0fd28b9245f0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_4.bmp"
+		"data\o\o_5.bmp"                                        02/24/2018  02:42:20 PM        11078  ""                 "A"           "3acf2efc968275829a5a0416995d1525"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_5.bmp"
+		"data\o\o_6.bmp"                                        02/24/2018  02:42:22 PM        11078  ""                 "A"           "488440048534b83be7721ad3082e08f0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_6.bmp"
+		"data\o\o_7.bmp"                                        02/24/2018  02:42:22 PM        11078  ""                 "A"           "aaad39ce9f56833dddb5e605aed5e7ca"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_7.bmp"
+		"data\o\o_8.bmp"                                        02/24/2018  02:42:22 PM        11078  ""                 "A"           "eaf0ab5f3fde83032f72cbd29c5d323a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_8.bmp"
+		"data\o\o_9.bmp"                                        02/24/2018  02:42:22 PM        11078  ""                 "A"           "9e5eec1564f598290695d4e71539bf8e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\o\o_9.bmp"
+		"data\p\p0.bmp"                                         06/08/2018  04:41:10 PM        11078  ""                 "A"           "d233b6ef6d97dff37bb403dba3e0a0fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p0.bmp"
+		"data\p\p1.bmp"                                         06/08/2018  04:41:10 PM        11078  ""                 "A"           "c5e6a41a293f1715ff58146296c751cb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p1.bmp"
+		"data\p\p2.bmp"                                         06/08/2018  04:41:12 PM        11078  ""                 "A"           "22a8c30bbd98d81b80779ba3ed308ccf"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p2.bmp"
+		"data\p\p3.bmp"                                         06/08/2018  04:41:16 PM        11078  ""                 "A"           "3da09fe2d0cd97306dd03b296f33019c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p3.bmp"
+		"data\p\p4.bmp"                                         06/08/2018  04:41:18 PM        11078  ""                 "A"           "768305a1fe8d384693e955aa8d53ba24"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p4.bmp"
+		"data\p\p5.bmp"                                         06/08/2018  04:41:18 PM        11078  ""                 "A"           "9df082c062f3643184c33ed957ce4c18"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p5.bmp"
+		"data\p\p6.bmp"                                         06/08/2018  04:41:32 PM        11078  ""                 "A"           "e0689c7d15319f2b9d16102165b36f69"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p6.bmp"
+		"data\p\p7.bmp"                                         06/08/2018  04:41:36 PM        11078  ""                 "A"           "abc158453673e46d01f25a37154cbff7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p7.bmp"
+		"data\p\p8.bmp"                                         06/08/2018  04:41:36 PM        11078  ""                 "A"           "8a59373b225bad9d0fd27e187d2ff797"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p8.bmp"
+		"data\p\p9.bmp"                                         06/08/2018  04:41:36 PM        11078  ""                 "A"           "2bca2b15e632dc89ec643669cf88ea68"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\p\p9.bmp"
+		"data\q\q0.bmp"                                         06/08/2018  04:56:16 PM        11078  ""                 "A"           "9673612a75af67c4def9a746b249da57"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q0.bmp"
+		"data\q\q1.bmp"                                         06/08/2018  04:56:18 PM        11078  ""                 "A"           "6feec4ea9a129dfc12da890de6f328e5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q1.bmp"
+		"data\q\q2.bmp"                                         06/08/2018  04:56:18 PM        11078  ""                 "A"           "bc757b0cfee415c5776940a74c69f4b6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q2.bmp"
+		"data\q\q3.bmp"                                         06/08/2018  04:56:22 PM        11078  ""                 "A"           "48c73d2c54b2733afcac910be555419f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q3.bmp"
+		"data\q\q4.bmp"                                         06/08/2018  04:56:24 PM        11078  ""                 "A"           "ba9d2b1b80b0e9baedea9dc63345bbf8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q4.bmp"
+		"data\q\q5.bmp"                                         06/08/2018  04:56:30 PM        11078  ""                 "A"           "6b531289254b2a9011b15227b5271355"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q5.bmp"
+		"data\q\q6.bmp"                                         06/08/2018  04:56:32 PM        11078  ""                 "A"           "223b2d4affd4e9143662f9664977c9b3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q6.bmp"
+		"data\q\q7.bmp"                                         06/08/2018  04:56:34 PM        11078  ""                 "A"           "f337f31b2cd0380b5b53ed7191adc25f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q7.bmp"
+		"data\q\q8.bmp"                                         06/08/2018  04:57:00 PM        11078  ""                 "A"           "e653b394e4266cb8346421d913e274df"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q8.bmp"
+		"data\q\q9.bmp"                                         06/08/2018  04:57:04 PM        11078  ""                 "A"           "4510bd4c55b33bcaf202146caadaf9b4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\q\q9.bmp"
+		"data\r\r0.bmp"                                         06/08/2018  04:59:40 PM        11078  ""                 "A"           "d5abdd3df166c59bda4dd11a864b26e0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r0.bmp"
+		"data\r\r1.bmp"                                         06/08/2018  04:59:42 PM        11078  ""                 "A"           "8c5901b871c532571221bd408dcf2d99"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r1.bmp"
+		"data\r\r2.bmp"                                         06/08/2018  04:59:46 PM        11078  ""                 "A"           "4f225a4aec239b901242ad0911c74472"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r2.bmp"
+		"data\r\r3.bmp"                                         06/08/2018  04:59:48 PM        11078  ""                 "A"           "5fc729a2b5a0499be349b68f16a77855"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r3.bmp"
+		"data\r\r4.bmp"                                         06/08/2018  04:59:52 PM        11078  ""                 "A"           "22150a0e93093bff52ec297c95ba7b6f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r4.bmp"
+		"data\r\r5.bmp"                                         06/08/2018  04:59:56 PM        11078  ""                 "A"           "6e474d178f56c4a6d528ebae341b970c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r5.bmp"
+		"data\r\r6.bmp"                                         06/08/2018  04:59:58 PM        11078  ""                 "A"           "6be0a34b16f74ed08dfa41089112ecce"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r6.bmp"
+		"data\r\r7.bmp"                                         06/08/2018  05:00:06 PM        11078  ""                 "A"           "8fd8183651e4ba6cc16e83228198a5af"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r7.bmp"
+		"data\r\r8.bmp"                                         06/08/2018  05:00:12 PM        11078  ""                 "A"           "b268cfc03c2c5ccba83276074e56b8bd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r8.bmp"
+		"data\r\r9.bmp"                                         06/08/2018  05:00:16 PM        11078  ""                 "A"           "eb25c0047363e14f1d2b1f4db0f7ba39"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\r\r9.bmp"
+		"data\s\s_0.bmp"                                        06/21/2018  08:37:00 PM        11078  ""                 "A"           "c1e7b57bb91f51ae6a9ec032fc6a2fd3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_0.bmp"
+		"data\s\s_1.bmp"                                        06/21/2018  08:37:00 PM        11078  ""                 "A"           "8a2e18da00d6d2347db684398437e15f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_1.bmp"
+		"data\s\s_10.bmp"                                       06/21/2018  08:37:20 PM        11078  ""                 "A"           "a55b02b6cb3bd6416ad3c952f65a393e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_10.bmp"
+		"data\s\s_2.bmp"                                        06/21/2018  08:37:02 PM        11078  ""                 "A"           "24af9c19442ffc75c03d806011985a89"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_2.bmp"
+		"data\s\s_3.bmp"                                        06/21/2018  08:37:04 PM        11078  ""                 "A"           "20f3149a7177871c1c6ec525df3f7476"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_3.bmp"
+		"data\s\s_4.bmp"                                        06/21/2018  08:37:06 PM        11078  ""                 "A"           "97ec2cc127511e42cffcf2b750e49e8a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_4.bmp"
+		"data\s\s_5.bmp"                                        06/21/2018  08:37:06 PM        11078  ""                 "A"           "db5b1d07725a28af6aabc774d2fce95b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_5.bmp"
+		"data\s\s_6.bmp"                                        06/21/2018  08:37:08 PM        11078  ""                 "A"           "be5f425219ea6f99cac8d6425bd8b73b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_6.bmp"
+		"data\s\s_7.bmp"                                        06/21/2018  08:37:10 PM        11078  ""                 "A"           "d18a02d6dacf08a6c6089e7fee562e6b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_7.bmp"
+		"data\s\s_8.bmp"                                        06/21/2018  08:37:10 PM        11078  ""                 "A"           "9d7f16a8f6e312d15445acbd08cc7af0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_8.bmp"
+		"data\s\s_9.bmp"                                        06/21/2018  08:37:16 PM        11078  ""                 "A"           "535bb1bd9c62c064aa41db52c5807fb2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\s\s_9.bmp"
+		"data\space\stop0.bmp"                                  02/24/2018  02:50:02 PM        11078  ""                 "A"           "515fd950c4c9916828a0e8cee7d67713"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop0.bmp"
+		"data\space\stop1.bmp"                                  02/24/2018  02:50:02 PM        11078  ""                 "A"           "3634a68662425d8d091d5c3b4197cdd0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop1.bmp"
+		"data\space\stop10.bmp"                                 02/24/2018  02:50:08 PM        11078  ""                 "A"           "4b1758d71979f9c998f27d31832b557c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop10.bmp"
+		"data\space\stop11.bmp"                                 02/24/2018  02:50:10 PM        11078  ""                 "A"           "94ba40e03b5080b1df4707fc9466b6e8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop11.bmp"
+		"data\space\stop12.bmp"                                 02/24/2018  02:50:10 PM        11078  ""                 "A"           "82470b3b1e944c7b10ea80e012953c27"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop12.bmp"
+		"data\space\stop13.bmp"                                 02/24/2018  02:50:10 PM        11078  ""                 "A"           "52dfd3fdd98cb4c62654c5e1cfcb1198"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop13.bmp"
+		"data\space\stop14.bmp"                                 02/24/2018  02:50:12 PM        11078  ""                 "A"           "e0b15b73d69c8913c239a34cf02c2415"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop14.bmp"
+		"data\space\stop15.bmp"                                 02/24/2018  02:50:12 PM        11078  ""                 "A"           "9997ec223ebbfce346abb57481e45050"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop15.bmp"
+		"data\space\stop16.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "07d64fa0cbc57943d66c12a1b2aa73de"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop16.bmp"
+		"data\space\stop17.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "45d2daf4fddb04e178bb8de4b58329bb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop17.bmp"
+		"data\space\stop18.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "fb569f69988e09c88f548d45ba389140"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop18.bmp"
+		"data\space\stop19.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "a8adce5ad3a5f1741ffdf814b4edbb92"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop19.bmp"
+		"data\space\stop2.bmp"                                  02/24/2018  02:50:04 PM        11078  ""                 "A"           "9a4e7fdb7c0d391dffeaa88c6c1b441e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop2.bmp"
+		"data\space\stop20.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "bd3559636fc0501831b4cf259287d3d4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop20.bmp"
+		"data\space\stop21.bmp"                                 02/24/2018  02:50:14 PM        11078  ""                 "A"           "27a3f9a22a0ddf39b5c692d6ce036ca1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop21.bmp"
+		"data\space\stop3.bmp"                                  02/24/2018  02:50:04 PM        11078  ""                 "A"           "b81f5b0147a612c3a5b0f3c0c55ab302"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop3.bmp"
+		"data\space\stop4.bmp"                                  02/24/2018  02:50:04 PM        11078  ""                 "A"           "2c56b3c6b76318fad2c8f6e4b0074807"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop4.bmp"
+		"data\space\stop5.bmp"                                  02/24/2018  02:50:04 PM        11078  ""                 "A"           "9d3aa6080923358c96c62beed8be599b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop5.bmp"
+		"data\space\stop6.bmp"                                  02/24/2018  02:50:06 PM        11078  ""                 "A"           "2027399d65229cdada951e7fbface667"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop6.bmp"
+		"data\space\stop7.bmp"                                  02/24/2018  02:50:06 PM        11078  ""                 "A"           "0a8022474464d8c9eae42c0bb4e9a527"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop7.bmp"
+		"data\space\stop8.bmp"                                  02/24/2018  02:50:08 PM        11078  ""                 "A"           "48bde4a4bffbd56f304c8ab4334f276a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop8.bmp"
+		"data\space\stop9.bmp"                                  02/24/2018  02:50:08 PM        11078  ""                 "A"           "94002089f1b24fc478d3d2f177eef38b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\space\stop9.bmp"
+		"data\t\t_0.bmp"                                        02/24/2018  02:45:06 PM        11078  ""                 "A"           "849c19f6ffc9a86e6f3614dc93d2511d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_0.bmp"
+		"data\t\t_1.bmp"                                        02/24/2018  02:45:06 PM        11078  ""                 "A"           "8df984270c2aedd39a210c9e1fd7a6a1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_1.bmp"
+		"data\t\t_2.bmp"                                        02/24/2018  02:45:06 PM        11078  ""                 "A"           "d9aeeab56af32ae61d35c5c32fce78ea"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_2.bmp"
+		"data\t\t_3.bmp"                                        02/24/2018  02:45:08 PM        11078  ""                 "A"           "a0b9a4ac489bbf60f65f7619d6fb8e8a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_3.bmp"
+		"data\t\t_4.bmp"                                        02/24/2018  02:45:08 PM        11078  ""                 "A"           "c4062dcdfe951b3370f2d54c69404ebe"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_4.bmp"
+		"data\t\t_5.bmp"                                        02/24/2018  02:45:08 PM        11078  ""                 "A"           "3f782e69bbd64c9d8baf024002111e81"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_5.bmp"
+		"data\t\t_6.bmp"                                        02/24/2018  02:45:08 PM        11078  ""                 "A"           "63376128fbed4d8894c006a688dc4fb1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_6.bmp"
+		"data\t\t_7.bmp"                                        02/24/2018  02:45:10 PM        11078  ""                 "A"           "e15bb4834d308a6ac0ae621218119613"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_7.bmp"
+		"data\t\t_8.bmp"                                        02/24/2018  02:45:10 PM        11078  ""                 "A"           "63a37feebd4e8f80f082f39213fe16de"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_8.bmp"
+		"data\t\t_9.bmp"                                        02/24/2018  02:45:10 PM        11078  ""                 "A"           "24c21275b419503256e3a62632ac5fc8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\t\t_9.bmp"
+		"data\u\u0.bmp"                                         06/08/2018  05:04:02 PM        11078  ""                 "A"           "0ad21637cf671c1236506faf5a7b47e5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u0.bmp"
+		"data\u\u1.bmp"                                         06/08/2018  05:04:04 PM        11078  ""                 "A"           "47a950fee4f694ece408a2660424ba7a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u1.bmp"
+		"data\u\u2.bmp"                                         06/08/2018  05:04:04 PM        11078  ""                 "A"           "08bd94ad22c58dfe7fc74d5760f64194"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u2.bmp"
+		"data\u\u3.bmp"                                         06/08/2018  05:04:08 PM        11078  ""                 "A"           "90e9e54c60e4b15fbe6bd95a16371305"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u3.bmp"
+		"data\u\u4.bmp"                                         06/08/2018  05:04:10 PM        11078  ""                 "A"           "49665df50d4925557e818d65b9e9d6e8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u4.bmp"
+		"data\u\u5.bmp"                                         06/08/2018  05:04:12 PM        11078  ""                 "A"           "8bee04ae6b8bfc96d579d18703fe4165"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u5.bmp"
+		"data\u\u6.bmp"                                         06/08/2018  05:04:14 PM        11078  ""                 "A"           "525ce0b334044db50f9e1eaafd3101dc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u6.bmp"
+		"data\u\u7.bmp"                                         06/08/2018  05:04:20 PM        11078  ""                 "A"           "54876a5990f3858b7453cba230e82387"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u7.bmp"
+		"data\u\u8.bmp"                                         06/08/2018  05:04:22 PM        11078  ""                 "A"           "af7d91b06db14221143a8c627cfa1196"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u8.bmp"
+		"data\u\u9.bmp"                                         06/08/2018  05:04:26 PM        11078  ""                 "A"           "79225cbbcb070453320d8b277e94bf74"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\u\u9.bmp"
+		"data\unknown\unknown0.bmp"                             06/08/2018  05:16:46 PM        11078  ""                 "A"           "3e6b242db31516cc7c1c3675c21d919d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown0.bmp"
+		"data\unknown\unknown1.bmp"                             06/08/2018  05:17:48 PM        11078  ""                 "A"           "63c4d09d52313a4700739fbfba0a8723"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown1.bmp"
+		"data\unknown\unknown10.bmp"                            06/08/2018  05:19:36 PM        11078  ""                 "A"           "1bfb095560122698b7a86c63b71a78c5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown10.bmp"
+		"data\unknown\unknown11.bmp"                            06/08/2018  05:19:40 PM        11078  ""                 "A"           "89ac1e114896232eae9ca97507e4ab6e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown11.bmp"
+		"data\unknown\unknown12.bmp"                            06/08/2018  05:20:18 PM        11078  ""                 "A"           "800b654fc5dfa9b117f5b310047dadca"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown12.bmp"
+		"data\unknown\unknown2.bmp"                             06/08/2018  05:18:54 PM        11078  ""                 "A"           "a6b080ccb385722f02ac7cb9c23856b0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown2.bmp"
+		"data\unknown\unknown3.bmp"                             06/08/2018  06:26:58 PM        11078  ""                 "A"           "7b7daef3ec25ef778ecb2e2ecfa8bba7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown3.bmp"
+		"data\unknown\unknown4.bmp"                             06/08/2018  05:19:00 PM        11078  ""                 "A"           "e6b09f9749dc18175809dea2cfc8ccb1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown4.bmp"
+		"data\unknown\unknown5.bmp"                             06/08/2018  05:19:10 PM        11078  ""                 "A"           "ad13e0bab82026542d021465d8a86814"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown5.bmp"
+		"data\unknown\unknown6.bmp"                             06/08/2018  05:19:14 PM        11078  ""                 "A"           "a0097ab8ab4b58a8908c5ca834212e93"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown6.bmp"
+		"data\unknown\unknown7.bmp"                             06/08/2018  05:19:18 PM        11078  ""                 "A"           "18afc049ad81a62dc9b574e18b3aa6e2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown7.bmp"
+		"data\unknown\unknown8.bmp"                             06/08/2018  05:19:30 PM        11078  ""                 "A"           "42592ab07afe7cfe3b71c8dfcf6f8bdf"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown8.bmp"
+		"data\unknown\unknown9.bmp"                             06/08/2018  05:19:32 PM        11078  ""                 "A"           "029ea474e584b3faf4f87734f0ac3da4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\unknown\unknown9.bmp"
+		"data\v\v_0.bmp"                                        02/24/2018  01:52:38 PM        11078  ""                 "A"           "1d763a439415b01aa2685a92a997b834"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_0.bmp"
+		"data\v\v_1.bmp"                                        02/24/2018  01:52:38 PM        11078  ""                 "A"           "e67dd1b4afaf48453c0462167f513aa1"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_1.bmp"
+		"data\v\v_2.bmp"                                        02/24/2018  01:52:38 PM        11078  ""                 "A"           "c57ac75c74ee9ec533828b70e311bc9c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_2.bmp"
+		"data\v\v_3.bmp"                                        02/24/2018  01:52:40 PM        11078  ""                 "A"           "5057c944b0405c8a507ef99130fcb51c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_3.bmp"
+		"data\v\v_4.bmp"                                        02/24/2018  01:52:42 PM        11078  ""                 "A"           "fdb809125b46f58849a4ca552bd9e333"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_4.bmp"
+		"data\v\v_5.bmp"                                        02/24/2018  01:52:44 PM        11078  ""                 "A"           "a085acfece17039f6fa4ae0884ed9df6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_5.bmp"
+		"data\v\v_6.bmp"                                        02/24/2018  01:52:48 PM        11078  ""                 "A"           "f28fe4be0d47e17f8ae2865d3c5e33ea"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_6.bmp"
+		"data\v\v_7.bmp"                                        02/24/2018  01:52:50 PM        11078  ""                 "A"           "86008881623b373569065c32ae35f1b9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_7.bmp"
+		"data\v\v_8.bmp"                                        02/24/2018  01:52:54 PM        11078  ""                 "A"           "5aef19c5d319631d49110c941e94fd95"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_8.bmp"
+		"data\v\v_9.bmp"                                        02/24/2018  01:52:56 PM        11078  ""                 "A"           "3f46100f53fda84c4238e86cfe807548"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\v\v_9.bmp"
+		"data\w\w_0.bmp"                                        02/24/2018  01:54:04 PM        11078  ""                 "A"           "c0f31795284f1faee632bbff74eefada"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_0.bmp"
+		"data\w\w_1.bmp"                                        02/24/2018  01:54:06 PM        11078  ""                 "A"           "c9ec4c4eb4009f8c5374f3c15f14e13b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_1.bmp"
+		"data\w\w_2.bmp"                                        02/24/2018  01:54:06 PM        11078  ""                 "A"           "f5fd9a498913f27947c4093fdd8fbe43"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_2.bmp"
+		"data\w\w_3.bmp"                                        02/24/2018  01:54:08 PM        11078  ""                 "A"           "ef6a8fb217a30a7f8480aa26a9010f00"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_3.bmp"
+		"data\w\w_4.bmp"                                        02/24/2018  01:54:08 PM        11078  ""                 "A"           "31dbf02e4c8cc11c5acf76128e25daf9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_4.bmp"
+		"data\w\w_5.bmp"                                        02/24/2018  01:54:08 PM        11078  ""                 "A"           "090a231238afaff358f14055ed53eba5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_5.bmp"
+		"data\w\w_6.bmp"                                        02/24/2018  01:54:10 PM        11078  ""                 "A"           "e4b457c5fd98422788df57bd79f2f99c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_6.bmp"
+		"data\w\w_7.bmp"                                        02/24/2018  01:54:10 PM        11078  ""                 "A"           "f8ab4ed026a7e6bccc4074964188ffae"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_7.bmp"
+		"data\w\w_8.bmp"                                        02/24/2018  01:54:12 PM        11078  ""                 "A"           "8e561077ee3da7eb16f0f278e02bc5d7"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_8.bmp"
+		"data\w\w_9.bmp"                                        02/24/2018  01:54:12 PM        11078  ""                 "A"           "bd64dbb6abce660629b5c0ce495312cb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\w\w_9.bmp"
+		"data\x\x0.bmp"                                         06/21/2018  07:59:36 PM        11078  ""                 "A"           "41ea31c9a7dd27171140222424524032"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x0.bmp"
+		"data\x\x1.bmp"                                         06/21/2018  07:59:36 PM        11078  ""                 "A"           "7b58ca604e47702346d96c7177d4975b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x1.bmp"
+		"data\x\x10.bmp"                                        06/21/2018  08:00:46 PM        11078  ""                 "A"           "235fedb5ec508c032dda6b5a9368458c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x10.bmp"
+		"data\x\x2.bmp"                                         06/21/2018  07:59:38 PM        11078  ""                 "A"           "fe3eb667b2bac8cb594b70050b9aaf19"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x2.bmp"
+		"data\x\x3.bmp"                                         06/21/2018  07:59:38 PM        11078  ""                 "A"           "4dd99a2d8e89128d686697ac8161a7f5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x3.bmp"
+		"data\x\x4.bmp"                                         06/21/2018  07:59:40 PM        11078  ""                 "A"           "1eee0125103757960508dc5c6ec3282e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x4.bmp"
+		"data\x\x5.bmp"                                         06/21/2018  07:59:52 PM        11078  ""                 "A"           "b6f99dcc21d6068786379cb8f27e0616"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x5.bmp"
+		"data\x\x6.bmp"                                         06/21/2018  07:59:54 PM        11078  ""                 "A"           "df853a8471c28633ecad0ef9347a1c66"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x6.bmp"
+		"data\x\x7.bmp"                                         06/21/2018  07:59:56 PM        11078  ""                 "A"           "a89a646724d1ac4a40cb6d11cb679553"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x7.bmp"
+		"data\x\x8.bmp"                                         06/21/2018  08:00:12 PM        11078  ""                 "A"           "567f61fb65638e15414b5ea769c88642"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x8.bmp"
+		"data\x\x9.bmp"                                         06/21/2018  08:00:44 PM        11078  ""                 "A"           "1caeb00286e7a1ae36e41f8684ec2a4c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\x\x9.bmp"
+		"data\y\y_0.bmp"                                        02/24/2018  01:58:12 PM        11078  ""                 "A"           "93560d5c5d86074373480edbd108af82"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_0.bmp"
+		"data\y\y_1.bmp"                                        02/24/2018  01:58:12 PM        11078  ""                 "A"           "e8dce4cd9b688eb2f87e83888a0578c8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_1.bmp"
+		"data\y\y_2.bmp"                                        02/24/2018  01:58:14 PM        11078  ""                 "A"           "30e1d11a0b6b5cce1a39e941b3a71e05"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_2.bmp"
+		"data\y\y_3.bmp"                                        02/24/2018  01:58:14 PM        11078  ""                 "A"           "26df1897edbb590f0f7a2e7ee7dffe57"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_3.bmp"
+		"data\y\y_4.bmp"                                        02/24/2018  01:58:14 PM        11078  ""                 "A"           "bcd3d2a6596ac41d6f73d3ed39580fc3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_4.bmp"
+		"data\y\y_5.bmp"                                        02/24/2018  01:58:14 PM        11078  ""                 "A"           "422b1cd33308e1308c4118f15eed2947"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_5.bmp"
+		"data\y\y_6.bmp"                                        02/24/2018  01:58:16 PM        11078  ""                 "A"           "c9fa5e01ff575125e12d404e8bb9f95b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_6.bmp"
+		"data\y\y_7.bmp"                                        02/24/2018  01:58:16 PM        11078  ""                 "A"           "91324f1479a48c233145cd00fd55e1f8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_7.bmp"
+		"data\y\y_8.bmp"                                        02/24/2018  01:58:16 PM        11078  ""                 "A"           "95ea9ac3a55c6b47371b54032934485d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_8.bmp"
+		"data\y\y_9.bmp"                                        02/24/2018  01:58:18 PM        11078  ""                 "A"           "c398ae83d51422884e6a514742453f58"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\y\y_9.bmp"
+		"data\z\z_0.bmp"                                        02/24/2018  02:46:42 PM        11078  ""                 "A"           "4cc21c2a78ad120000a65db20ff88176"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_0.bmp"
+		"data\z\z_1.bmp"                                        02/24/2018  02:46:42 PM        11078  ""                 "A"           "425a51a9ec92ce5f7608b1a85831daa6"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_1.bmp"
+		"data\z\z_2.bmp"                                        02/24/2018  02:46:42 PM        11078  ""                 "A"           "b8ea656f664c9420119372fc715f99cc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_2.bmp"
+		"data\z\z_3.bmp"                                        02/24/2018  02:46:44 PM        11078  ""                 "A"           "7e08029dd43f34e5836b9941e150f63b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_3.bmp"
+		"data\z\z_4.bmp"                                        02/24/2018  02:46:44 PM        11078  ""                 "A"           "67c68fc606d692bd0ec140f0582b2dba"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_4.bmp"
+		"data\z\z_5.bmp"                                        02/24/2018  02:46:44 PM        11078  ""                 "A"           "e91924fcb41b489a04de238d10a80222"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_5.bmp"
+		"data\z\z_6.bmp"                                        02/24/2018  02:46:44 PM        11078  ""                 "A"           "fd83771b37c6bb1fa151b058efc96995"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_6.bmp"
+		"data\z\z_7.bmp"                                        02/24/2018  02:46:46 PM        11078  ""                 "A"           "6be6e4cbcfbc3553d914b8f8474984f8"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_7.bmp"
+		"data\z\z_8.bmp"                                        02/24/2018  02:46:46 PM        11078  ""                 "A"           "6992ba8580c80b4203cf297f2c2e3710"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_8.bmp"
+		"data\z\z_9.bmp"                                        02/24/2018  02:46:48 PM        11078  ""                 "A"           "14476fcd5cb5a1b1abbea2c13aeef126"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\data\z\z_9.bmp"
+		"audio\qtaudio_windows.dll"                             05/26/2017  08:47:58 PM        83968  "5.9.0.0"          "A"           "36275caa3ab378a8fbd165ead23e5864"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\audio\qtaudio_windows.dll"
+		"bearer\qgenericbearer.dll"                             05/26/2017  04:29:40 PM        89600  "5.9.0.0"          "A"           "efb98c904efc05d2a5060fc9f5971296"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\bearer\qgenericbearer.dll"
+		"bearer\qnativewifibearer.dll"                          05/26/2017  04:30:04 PM        82432  "5.9.0.0"          "A"           "4ef5b1d3f2bdd66389c3d7fef565104d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\bearer\qnativewifibearer.dll"
+		"iconengines\qsvgicon.dll"                              05/26/2017  06:50:52 PM        43008  "5.9.0.0"          "A"           "997d4ac277855f2adb1cae8dec6b7eec"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\iconengines\qsvgicon.dll"
+		"imageformats\qgif.dll"                                 05/26/2017  04:31:26 PM        33792  "5.9.0.0"          "A"           "cc2aee5f69c2b2e74298b44959087374"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qgif.dll"
+		"imageformats\qicns.dll"                                05/26/2017  06:51:00 PM        46592  "5.9.0.0"          "A"           "81e10da570fac4e8c85f45344d83093b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qicns.dll"
+		"imageformats\qico.dll"                                 05/26/2017  04:30:20 PM        36352  "5.9.0.0"          "A"           "2ed29a95b3ad475bd236de297a773eac"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qico.dll"
+		"imageformats\qjpeg.dll"                                05/26/2017  04:30:56 PM       247808  "5.9.0.0"          "A"           "c992ed5b55e48d2c0d4c3408d0e4ffcc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qjpeg.dll"
+		"imageformats\qsvg.dll"                                 05/26/2017  06:50:50 PM        27136  "5.9.0.0"          "A"           "b8aabe1242d3ae5d8eb6f6118dcde5b0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qsvg.dll"
+		"imageformats\qtga.dll"                                 05/26/2017  06:50:04 PM        26624  "5.9.0.0"          "A"           "29fcf1cab30ed5f3495aa3d7b2be87e2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qtga.dll"
+		"imageformats\qtiff.dll"                                05/26/2017  06:50:36 PM       448000  "5.9.0.0"          "A"           "608524b319203d9345b182da2b9da098"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qtiff.dll"
+		"imageformats\qwbmp.dll"                                05/26/2017  06:50:44 PM        25600  "5.9.0.0"          "A"           "f6a284f968b1de2a9624d8a3ad82de50"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qwbmp.dll"
+		"imageformats\qwebp.dll"                                05/26/2017  06:51:24 PM       449024  "5.9.0.0"          "A"           "8e6fccd5607cb9ce789dad762002c42f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qwebp.dll"
+		"mediaservice\dsengine.dll"                             05/26/2017  08:53:22 PM       368640  "5.9.0.0"          "A"           "d633d7b0b49779340a9aec259a381989"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\mediaservice\dsengine.dll"
+		"mediaservice\qtmedia_audioengine.dll"                  05/26/2017  08:46:30 PM        66560  "5.9.0.0"          "A"           "dbcea0e83ba4a0ee03d25493c6d23d33"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\mediaservice\qtmedia_audioengine.dll"
+		"platforms\qwindows.dll"                                05/26/2017  04:33:20 PM      1754624  "5.9.0.0"          "A"           "38daa5ddd3ee705851ffdd7851711308"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\platforms\qwindows.dll"
+		"playlistformats\qtmultimedia_m3u.dll"                  05/26/2017  08:45:26 PM        29696  "5.9.0.0"          "A"           "597aa21c26328cbb9d1839124dfcfe71"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\playlistformats\qtmultimedia_m3u.dll"
+		"plugins\grknnhogclassifier.dll"                        06/22/2018  05:35:18 PM        56858  ""                 "A"           "c25a67fac02b22a470eb361f2f7323d5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\plugins\grknnhogclassifier.dll"
+		"plugins\grsvmhogclassifier.dll"                        06/22/2018  05:34:40 PM        56858  ""                 "A"           "53488c4324fa8d92db73f58258d508de"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\plugins\grsvmhogclassifier.dll"
+		"plugins\libgrknnhogclassifier.a"                       06/22/2018  05:35:18 PM         2230  ""                 "A"           "9b177160cf2ec969f302e89f419f0a07"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\plugins\libgrknnhogclassifier.a"
+		"plugins\libgrsvmhogclassifier.a"                       06/22/2018  05:34:40 PM         2230  ""                 "A"           "9b279b2a79987ec49a1e0ca1410d9539"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\plugins\libgrsvmhogclassifier.a"
+		"texttospeech\qtexttospeech_sapi.dll"                   05/26/2017  09:03:46 PM        66560  "5.9.0.0"          "A"           "ba6b2311dc7bc58aeee0f7685f2f8484"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\texttospeech\qtexttospeech_sapi.dll"
+		"translations\qt_bg.qm"                                 07/09/2018  08:51:20 PM       178970  ""                 "A"           "90a13f1d30d717dfdf4114d272c59856"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_bg.qm"
+		"translations\qt_ca.qm"                                 07/09/2018  08:51:22 PM       192722  ""                 "A"           "6d97089990a0a1adeeb3de6856ba7908"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ca.qm"
+		"translations\qt_cs.qm"                                 07/09/2018  08:51:22 PM       190550  ""                 "A"           "9f597d2c5ce11a6ae1321a3121a2c9a4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_cs.qm"
+		"translations\qt_da.qm"                                 07/09/2018  08:51:22 PM       181988  ""                 "A"           "f854c1210cbe3842c4d469b56009b945"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_da.qm"
+		"translations\qt_de.qm"                                 07/09/2018  08:51:22 PM       201540  ""                 "A"           "dd07e48a803da6b0d49ce9c59992ffb3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_de.qm"
+		"translations\qt_en.qm"                                 07/09/2018  08:51:22 PM           23  ""                 "A"           "4aef4415f2e976b2cc6f24b877804a57"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_en.qm"
+		"translations\qt_es.qm"                                 07/09/2018  08:51:22 PM       182163  ""                 "A"           "e6d5826c659d2408cb3ebf50301e8705"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_es.qm"
+		"translations\qt_fi.qm"                                 07/09/2018  08:51:22 PM       173594  ""                 "A"           "1d83bbbf24e3b31c567dc9e4f26b49fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_fi.qm"
+		"translations\qt_fr.qm"                                 07/09/2018  08:51:22 PM       182616  ""                 "A"           "589a859c55ca3c5af78a107f1791b617"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_fr.qm"
+		"translations\qt_gd.qm"                                 07/09/2018  08:51:22 PM       173572  ""                 "A"           "37472716aa49e2d83699396039a6744d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_gd.qm"
+		"translations\qt_he.qm"                                 07/09/2018  08:51:22 PM       138680  ""                 "A"           "6a8a53d365f564be4804b3f1167186ad"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_he.qm"
+		"translations\qt_hu.qm"                                 07/09/2018  08:51:22 PM        91827  ""                 "A"           "7ddc352b6c324ea7eb8e971f60fb190d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_hu.qm"
+		"translations\qt_it.qm"                                 07/09/2018  08:51:22 PM       178280  ""                 "A"           "1fd524e5a726201bbcd20a100405f2b5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_it.qm"
+		"translations\qt_ja.qm"                                 07/09/2018  08:51:22 PM       144208  ""                 "A"           "2644bbf69fd481763d68dde54371aaeb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ja.qm"
+		"translations\qt_ko.qm"                                 07/09/2018  08:51:22 PM       144402  ""                 "A"           "67ea4f7a191b1c1314c493471119fea4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ko.qm"
+		"translations\qt_lv.qm"                                 07/09/2018  08:51:22 PM       153598  ""                 "A"           "788862615b8fb13b52e4a80a8c54b3bf"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_lv.qm"
+		"translations\qt_pl.qm"                                 07/09/2018  08:51:22 PM       162901  ""                 "A"           "a049133dc1006efefbeb3903878ddbc0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_pl.qm"
+		"translations\qt_ru.qm"                                 07/09/2018  08:51:22 PM       174051  ""                 "A"           "845fcff70b817a61c861e6e0728c86d9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ru.qm"
+		"translations\qt_sk.qm"                                 07/09/2018  08:51:22 PM       135602  ""                 "A"           "ee4e0efff03e1b1c0dcee741f82b5aa2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_sk.qm"
+		"translations\qt_uk.qm"                                 07/09/2018  08:51:22 PM       173958  ""                 "A"           "7e11d218de01d55a3b3c6a6c55408b10"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_uk.qm"

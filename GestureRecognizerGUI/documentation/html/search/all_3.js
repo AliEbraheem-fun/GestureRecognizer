@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['deactivatebackgroundsubstraction',['deactivateBackgroundSubstraction',['../class_g_r_detector.html#af27b2a772af798dfb7b3a9c19fd96ab9',1,'GRDetector']]],
+  ['defaultfps',['defaultFPS',['../class_g_r_video_recorder.html#a8444bb575c99e29e22586ac1ede9ab8b',1,'GRVideoRecorder']]],
+  ['defaultheight',['defaultHeight',['../class_g_r_video_recorder.html#a5b0b1f1f723bc56e7e64fd1b9da97f4d',1,'GRVideoRecorder']]],
+  ['defaultwidth',['defaultWidth',['../class_g_r_video_recorder.html#a642b2f97bf07ac3d06332a3a8d8d4b94',1,'GRVideoRecorder']]],
+  ['del',['del',['../class_g_r_word_synthesizer.html#aec36ea603cadb302a4021c7d9d324f1b',1,'GRWordSynthesizer']]],
+  ['destination',['destination',['../class_g_r_download_manager.html#ab7a0a6a75f3daae9d2020457fece95fe',1,'GRDownloadManager::destination()'],['../class_g_r_file_info.html#a0a4256d1956f25b9d99b1c55dc07c7ee',1,'GRFileInfo::destination()']]],
+  ['detect',['detect',['../class_g_r_detector.html#a13dd3af49d74e3e9719c8dcef4778552',1,'GRDetector']]],
+  ['detector',['detector',['../class_main_window.html#af18cfcba9ffe8f4151c6e39ba3d095b4',1,'MainWindow']]],
+  ['differentdestination',['DifferentDestination',['../class_g_r_file_info.html#ab2a805a2f407cf67424e49d9fa07fa9ca424230b1cee9a3d615e42458dd762c65',1,'GRFileInfo']]],
+  ['differentfilenames',['DifferentFileNames',['../class_g_r_file_info.html#ab2a805a2f407cf67424e49d9fa07fa9caeb3ec5c1ee57991b035c56db3c2a4110',1,'GRFileInfo']]],
+  ['downloaddone',['downloadDone',['../class_g_r_download_manager.html#a52d8816da22b33026c259babf6211660',1,'GRDownloadManager']]],
+  ['downloadedcount',['downloadedCount',['../class_g_r_download_manager.html#a5bd1923c8365b06c91766eb314d4bb56',1,'GRDownloadManager']]],
+  ['downloadfinished',['downloadFinished',['../class_g_r_download_manager.html#a0f12ebe8ed7bf7189b3f3616400c0ac6',1,'GRDownloadManager']]],
+  ['downloadprogress',['downloadProgress',['../class_g_r_download_manager.html#af3b9ad85f2236c19b4c2c2eec1d751ca',1,'GRDownloadManager']]],
+  ['downloadqueue',['downloadQueue',['../class_g_r_download_manager.html#adc027577eb8f049c89bd75f4215d5d66',1,'GRDownloadManager']]],
+  ['downloadreadyread',['downloadReadyRead',['../class_g_r_download_manager.html#ad91413a0d0ae67958c25d04865f2a102',1,'GRDownloadManager']]],
+  ['downloadtime',['downloadTime',['../class_g_r_download_manager.html#ab3c73477fd67175419c0c878c1cb72c6',1,'GRDownloadManager']]],
+  ['downloadurl',['downloadURL',['../class_g_r_update_manager.html#a02d1d3854e8f3047e5b64f3165bf898d',1,'GRUpdateManager']]]
+];

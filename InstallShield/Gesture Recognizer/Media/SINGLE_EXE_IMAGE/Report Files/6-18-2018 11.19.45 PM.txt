@@ -1,0 +1,445 @@
+//////////////////////////////////////////////////////////////////////
+/////////////////////////////// Summary //////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+		Features:  			        13
+		Components:			        28
+		Number of Files:		        75
+		Size of Files:   		      47277950
+		Size in Library:		      18462483
+
+
+		<Support>
+			Engine
+				Log
+				Kernel
+			Main Installation
+				Script
+				Setup
+				StrTbl
+				RunTime
+				Resource
+		<Data>
+			Disk<1>
+			DefaultFeature
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Features ///////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+*<Support>*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Log*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Engine\Kernel*
+
+		Component
+		------------------------------------------------------
+		"<Engine>Kernel Placeholder"
+		"<Engine>EngineCommonPlaceHolderSelfReg"
+
+*<Support>\Main Installation*
+
+		Component
+		------------------------------------------------------
+
+*<Support>\Main Installation\Script*
+
+		Component
+		------------------------------------------------------
+		"<Support>Script"
+
+*<Support>\Main Installation\Setup*
+
+		Component
+		------------------------------------------------------
+		"<Support>Language Independent OS Independent Files"
+		"<Support>0x0409 OS Independent Files"
+		"<Support>Build Generated Support Files"
+		"<Support>Misc Support Files"
+		"<Support>Misc i64 Support Files"
+		"<Support>Misc x64 Support Files"
+
+*<Support>\Main Installation\StrTbl*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 String Tables"
+
+*<Support>\Main Installation\RunTime*
+
+		Component
+		------------------------------------------------------
+		"<Support>Non-SelfRegistering"
+
+*<Support>\Main Installation\Resource*
+
+		Component
+		------------------------------------------------------
+		"<Support>0x0409 Files"
+
+*<Data>*
+
+		Component
+		------------------------------------------------------
+
+*<Data>\Disk<1>*
+
+		Component
+		------------------------------------------------------
+		"<Disk1>Disk1 Files(1)"
+		"<Disk1>Disk1 Files(2)"
+		"<Disk1>Disk1 Files(3)"
+		"<Disk1>Disk1 Files(4)"
+
+*<Data>\DefaultFeature*
+
+		Component
+		------------------------------------------------------
+		"DefaultComponent"
+		"Files"
+		"Files1"
+		"NewComponent1"
+		"NewComponent2"
+		"NewComponent3"
+		"NewComponent4"
+		"NewComponent5"
+		"NewComponent6"
+		"NewComponent7"
+		"NewComponent8"
+		"NewComponent9"
+
+
+//////////////////////////////////////////////////////////////////////
+///////////////////////////// Components ////////////////////////////
+//////////////////////////////////////////////////////////////////////
+
+><Engine>Kernel Placeholder<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Engine>EngineCommonPlaceHolderSelfReg<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Script<
+
+		Size of Files:   		        223327
+		Size in Library:		        223327
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             06/18/2018  11:19:22 PM       223327  ""                 "A"           "3bffb5d976d416a2b9353cbc3120270b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\script files\setup.inx"
+
+><Support>Language Independent OS Independent Files<
+
+		Size of Files:   		         11493
+		Size in Library:		          2605
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"license.rtf"                                           11/28/2004  10:52:18 AM        11493  ""                 "A"           "e7eb45e877c8cb80f56e9dbc9504e757"      "c:\program files (x86)\installshield\2010\redist\0409\license.rtf"
+
+><Support>0x0409 OS Independent Files<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+><Support>Build Generated Support Files<
+
+		Size of Files:   		           125
+		Size in Library:		            99
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"fontdata.ini"                                          06/18/2018  11:19:28 PM           39  ""                 "A"           "00f313e3e007599349a0c4d81c7807c4"      "c:\users\ali-work\appdata\local\temp\fontdata.ini"
+		"difxdata.ini"                                          06/18/2018  11:19:28 PM           86  ""                 "A"           "10baa5b67536f4433f37534b9c8bb828"      "c:\users\ali-work\appdata\local\temp\difxdata.ini"
+
+><Support>Misc Support Files<
+
+		Size of Files:   		         76583
+		Size in Library:		         17909
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"corecomp.ini"                                          03/07/2006  12:55:04 AM        65503  ""                 "A"           "09d38ceca6a012f4ce5b54f03db9b21a"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\corecomp.ini"
+		"dotnetinstaller.exe"                                   06/10/2009  03:57:52 PM        11080  "16.0.0.328"       "A"           "94b6f434210bfad6abdcf818b8cf350f"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\dotnetinstaller.exe"
+
+><Support>Misc i64 Support Files<
+
+		Size of Files:   		        239416
+		Size in Library:		        103979
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  03:59:18 PM       239416  "16.0.0.328"       "A"           "38eb6c08e3e7e385255119c8c732fa99"      "c:\program files (x86)\installshield\2010\redist\language independent\i64\isbew64.exe"
+
+><Support>Misc x64 Support Files<
+
+		Size of Files:   		        107320
+		Size in Library:		         52026
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isbew64.exe"                                           06/10/2009  03:59:18 PM       107320  "16.0.0.328"       "A"           "41cb698f967b4d9f2580ea2a21a5a710"      "c:\program files (x86)\installshield\2010\redist\language independent\x64\isbew64.exe"
+
+><Support>0x0409 String Tables<
+
+		Size of Files:   		           392
+		Size in Library:		           207
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"stringtable_0x0409.ips"                                06/18/2018  11:19:22 PM          392  ""                 "A"           "aeea08c7b38833801945659c2afebadc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\string tables\stringtable_0x0409.ips"
+
+><Support>Non-SelfRegistering<
+
+		Size of Files:   		        262592
+		Size in Library:		        253568
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"isrt.dll"                                              09/22/2009  02:08:46 AM       261424  "16.0.0.400"       "A"           "ed5aa645392883b21507c8d097fda277"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\isrt.dll"
+		"default.pal"                                           03/07/2006  12:55:02 AM         1168  ""                 "A"           "0abafe3f69d053494405061de2629c82"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\default.pal"
+
+><Support>0x0409 Files<
+
+		Size of Files:   		        553067
+		Size in Library:		        118709
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"_isres_0x0409.dll"                                     06/10/2009  03:16:34 PM       553067  "16.0.0.328"       "A"           "8938d3d18b09e92eeb9c403593365eb0"      "c:\program files (x86)\installshield\2010\redist\language independent\i386\_isres_0x0409.dll"
+
+><Disk1>Disk1 Files(1)<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"layout.bin"                                            11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\layout.bin"
+		"data1.hdr"                                             11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.hdr"
+		"data1.cab"                                             11/28/2004  11:32:10 AM            0  ""                 "A"           "d41d8cd98f00b204e9800998ecf8427e"      "c:\program files (x86)\installshield\2010\support\build\data1.cab"
+
+><Disk1>Disk1 Files(2)<
+
+		Size of Files:   		       1401334
+		Size in Library:		       1401334
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.exe"                                             06/18/2018  11:19:28 PM       802816  "16.0.0.400"       "A"           "07c90b494645f1a143d934139f49264a"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\setup.exe"
+		"issetup.dll"                                           09/22/2009  02:08:46 AM       577024  "16.0.0.400"       ""            "1bf0fc52d41be3f3c1025b3971bc49a0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\issetup.dll"
+		"0x0409.ini"                                            05/21/2009  04:53:56 PM        21494  ""                 "A"           "36affbd6ff77d1515cfc1c5e998fbaf9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\0x0409.ini"
+
+><Disk1>Disk1 Files(3)<
+
+		Size of Files:   		        223327
+		Size in Library:		        223327
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.inx"                                             06/18/2018  11:19:22 PM       223327  ""                 "A"           "3bffb5d976d416a2b9353cbc3120270b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\script files\setup.inx"
+
+><Disk1>Disk1 Files(4)<
+
+		Size of Files:   		          1227
+		Size in Library:		          1227
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"setup.ini"                                             06/18/2018  11:19:26 PM         1227  ""                 "A"           "f21a4e1c92e380885aa1723d79fd6912"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\installshield\gesture recognizer\media\single_exe_image\disk images\disk1\setup.ini"
+
+>DefaultComponent<
+
+		Size of Files:   		             0
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+
+>Files<
+
+		Size of Files:   		       2106216
+		Size in Library:		        955484
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"d3dcompiler_43.dll"                                    05/26/2010  09:41:02 PM      2106216  "9.29.952.3111"    "A"           "1c9b45e87528b8bb8cfa884ea0099a85"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\d3dcompiler_43.dll"
+
+>Files1<
+
+		Size of Files:   		      34990270
+		Size in Library:		      12381908
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"gesturerecognizergui.exe"                              06/18/2018  11:11:16 PM       311310  ""                 "A"           "610dbd3d6eb87268e82b4483898c47b9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\gesturerecognizergui.exe"
+		"libgcc_s_dw2-1.dll"                                    12/29/2015  01:25:50 AM       120334  ""                 "A"           "043b39434829ce93637b1801d57b2082"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libgcc_s_dw2-1.dll"
+		"libopencv_core330.dll"                                 11/29/2017  10:03:02 PM      4617661  "3.3.0.0"          "A"           "bcc0f65662c5fc54fbb15b6e84f4bae2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_core330.dll"
+		"libopencv_highgui330.dll"                              11/29/2017  10:15:54 PM       755741  "3.3.0.0"          "A"           "8124d0f8cf6206b34515967e67209659"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_highgui330.dll"
+		"libopencv_imgcodecs330.dll"                            11/29/2017  10:13:28 PM      3803254  "3.3.0.0"          "A"           "6982c61dbd4a51bec891d42735fdcd8c"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgcodecs330.dll"
+		"libopencv_imgproc330.dll"                              11/29/2017  10:08:14 PM      4988926  "3.3.0.0"          "A"           "a14e81d44e2bfd8268acf8e8afd1672f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_imgproc330.dll"
+		"libopencv_ml330.dll"                                   11/29/2017  10:05:22 PM      1245390  "3.3.0.0"          "A"           "267bb9497e353703cc89fa0732ac4a5e"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_ml330.dll"
+		"libopencv_objdetect330.dll"                            11/29/2017  10:10:08 PM       864455  "3.3.0.0"          "A"           "32094843b83489330d35da469a7c9a32"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_objdetect330.dll"
+		"libopencv_videoio330.dll"                              11/29/2017  10:14:56 PM       667313  "3.3.0.0"          "A"           "85a79c3d2f1fa6a8c93a0c6c06b70685"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libopencv_videoio330.dll"
+		"libstdc++-6.dll"                                       12/29/2015  01:25:50 AM      1540622  ""                 "A"           "63b4f37587334014fda842a04b1baae4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libstdc++-6.dll"
+		"libwinpthread-1.dll"                                   12/29/2015  01:25:50 AM        79360  "1.0.0.0"          "A"           "a8b06665266ff02d5e9847ad828f9ee0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\libwinpthread-1.dll"
+		"opengl32sw.dll"                                        06/14/2016  04:08:08 PM     15995904  ""                 "A"           "8b197f55264a44b7b25046f7ba5bd7d2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\opengl32sw.dll"
+
+>NewComponent1<
+
+		Size of Files:   		         83968
+		Size in Library:		         38285
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qtaudio_windows.dll"                                   05/26/2017  08:47:58 PM        83968  "5.9.0.0"          "A"           "36275caa3ab378a8fbd165ead23e5864"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\audio\qtaudio_windows.dll"
+
+>NewComponent2<
+
+		Size of Files:   		        172032
+		Size in Library:		         64099
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qgenericbearer.dll"                                    05/26/2017  04:29:40 PM        89600  "5.9.0.0"          "A"           "efb98c904efc05d2a5060fc9f5971296"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\bearer\qgenericbearer.dll"
+		"qnativewifibearer.dll"                                 05/26/2017  04:30:04 PM        82432  "5.9.0.0"          "A"           "4ef5b1d3f2bdd66389c3d7fef565104d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\bearer\qnativewifibearer.dll"
+
+>NewComponent3<
+
+		Size of Files:   		         43008
+		Size in Library:		         17498
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qsvgicon.dll"                                          05/26/2017  06:50:52 PM        43008  "5.9.0.0"          "A"           "997d4ac277855f2adb1cae8dec6b7eec"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\iconengines\qsvgicon.dll"
+
+>NewComponent4<
+
+		Size of Files:   		       1340928
+		Size in Library:		        616454
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qgif.dll"                                              05/26/2017  04:31:26 PM        33792  "5.9.0.0"          "A"           "cc2aee5f69c2b2e74298b44959087374"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qgif.dll"
+		"qicns.dll"                                             05/26/2017  06:51:00 PM        46592  "5.9.0.0"          "A"           "81e10da570fac4e8c85f45344d83093b"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qicns.dll"
+		"qico.dll"                                              05/26/2017  04:30:20 PM        36352  "5.9.0.0"          "A"           "2ed29a95b3ad475bd236de297a773eac"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qico.dll"
+		"qjpeg.dll"                                             05/26/2017  04:30:56 PM       247808  "5.9.0.0"          "A"           "c992ed5b55e48d2c0d4c3408d0e4ffcc"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qjpeg.dll"
+		"qsvg.dll"                                              05/26/2017  06:50:50 PM        27136  "5.9.0.0"          "A"           "b8aabe1242d3ae5d8eb6f6118dcde5b0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qsvg.dll"
+		"qtga.dll"                                              05/26/2017  06:50:04 PM        26624  "5.9.0.0"          "A"           "29fcf1cab30ed5f3495aa3d7b2be87e2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qtga.dll"
+		"qtiff.dll"                                             05/26/2017  06:50:36 PM       448000  "5.9.0.0"          "A"           "608524b319203d9345b182da2b9da098"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qtiff.dll"
+		"qwbmp.dll"                                             05/26/2017  06:50:44 PM        25600  "5.9.0.0"          "A"           "f6a284f968b1de2a9624d8a3ad82de50"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qwbmp.dll"
+		"qwebp.dll"                                             05/26/2017  06:51:24 PM       449024  "5.9.0.0"          "A"           "8e6fccd5607cb9ce789dad762002c42f"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\imageformats\qwebp.dll"
+
+>NewComponent5<
+
+		Size of Files:   		        435200
+		Size in Library:		        175546
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"dsengine.dll"                                          05/26/2017  08:53:22 PM       368640  "5.9.0.0"          "A"           "d633d7b0b49779340a9aec259a381989"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\mediaservice\dsengine.dll"
+		"qtmedia_audioengine.dll"                               05/26/2017  08:46:30 PM        66560  "5.9.0.0"          "A"           "dbcea0e83ba4a0ee03d25493c6d23d33"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\mediaservice\qtmedia_audioengine.dll"
+
+>NewComponent6<
+
+		Size of Files:   		       1754624
+		Size in Library:		        802192
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qwindows.dll"                                          05/26/2017  04:33:20 PM      1754624  "5.9.0.0"          "A"           "38daa5ddd3ee705851ffdd7851711308"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\platforms\qwindows.dll"
+
+>NewComponent7<
+
+		Size of Files:   		         29696
+		Size in Library:		         12116
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qtmultimedia_m3u.dll"                                  05/26/2017  08:45:26 PM        29696  "5.9.0.0"          "A"           "597aa21c26328cbb9d1839124dfcfe71"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\playlistformats\qtmultimedia_m3u.dll"
+
+>NewComponent8<
+
+		Size of Files:   		         66560
+		Size in Library:		         26188
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qtexttospeech_sapi.dll"                                05/26/2017  09:03:46 PM        66560  "5.9.0.0"          "A"           "ba6b2311dc7bc58aeee0f7685f2f8484"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\texttospeech\qtexttospeech_sapi.dll"
+
+>NewComponent9<
+
+		Size of Files:   		       3155245
+		Size in Library:		        974396
+
+
+		File                                                    Date        Time         Size         Version            Attributes    MD5                                     Source file
+		------------------------------------------------------  ----------  -----------  -----------  -----------------  ------------  --------------------------------------  ------------------------------------------------
+		"qt_bg.qm"                                              06/11/2018  01:18:54 AM       178970  ""                 "A"           "90a13f1d30d717dfdf4114d272c59856"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_bg.qm"
+		"qt_ca.qm"                                              06/11/2018  01:18:54 AM       192722  ""                 "A"           "6d97089990a0a1adeeb3de6856ba7908"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ca.qm"
+		"qt_cs.qm"                                              06/11/2018  01:18:56 AM       190550  ""                 "A"           "9f597d2c5ce11a6ae1321a3121a2c9a4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_cs.qm"
+		"qt_da.qm"                                              06/11/2018  01:18:56 AM       181988  ""                 "A"           "f854c1210cbe3842c4d469b56009b945"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_da.qm"
+		"qt_de.qm"                                              06/11/2018  01:18:56 AM       201540  ""                 "A"           "dd07e48a803da6b0d49ce9c59992ffb3"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_de.qm"
+		"qt_en.qm"                                              06/11/2018  01:18:56 AM           23  ""                 "A"           "4aef4415f2e976b2cc6f24b877804a57"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_en.qm"
+		"qt_es.qm"                                              06/11/2018  01:18:56 AM       182163  ""                 "A"           "e6d5826c659d2408cb3ebf50301e8705"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_es.qm"
+		"qt_fi.qm"                                              06/11/2018  01:18:56 AM       173594  ""                 "A"           "1d83bbbf24e3b31c567dc9e4f26b49fd"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_fi.qm"
+		"qt_fr.qm"                                              06/11/2018  01:18:56 AM       182616  ""                 "A"           "589a859c55ca3c5af78a107f1791b617"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_fr.qm"
+		"qt_gd.qm"                                              06/11/2018  01:18:56 AM       173572  ""                 "A"           "37472716aa49e2d83699396039a6744d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_gd.qm"
+		"qt_he.qm"                                              06/11/2018  01:18:56 AM       138680  ""                 "A"           "6a8a53d365f564be4804b3f1167186ad"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_he.qm"
+		"qt_hu.qm"                                              06/11/2018  01:18:56 AM        91827  ""                 "A"           "7ddc352b6c324ea7eb8e971f60fb190d"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_hu.qm"
+		"qt_it.qm"                                              06/11/2018  01:18:56 AM       178280  ""                 "A"           "1fd524e5a726201bbcd20a100405f2b5"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_it.qm"
+		"qt_ja.qm"                                              06/11/2018  01:18:56 AM       144208  ""                 "A"           "2644bbf69fd481763d68dde54371aaeb"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ja.qm"
+		"qt_ko.qm"                                              06/11/2018  01:18:56 AM       144402  ""                 "A"           "67ea4f7a191b1c1314c493471119fea4"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ko.qm"
+		"qt_lv.qm"                                              06/11/2018  01:18:56 AM       153598  ""                 "A"           "788862615b8fb13b52e4a80a8c54b3bf"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_lv.qm"
+		"qt_pl.qm"                                              06/11/2018  01:18:58 AM       162901  ""                 "A"           "a049133dc1006efefbeb3903878ddbc0"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_pl.qm"
+		"qt_ru.qm"                                              06/11/2018  01:18:58 AM       174051  ""                 "A"           "845fcff70b817a61c861e6e0728c86d9"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_ru.qm"
+		"qt_sk.qm"                                              06/11/2018  01:18:58 AM       135602  ""                 "A"           "ee4e0efff03e1b1c0dcee741f82b5aa2"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_sk.qm"
+		"qt_uk.qm"                                              06/11/2018  01:18:58 AM       173958  ""                 "A"           "7e11d218de01d55a3b3c6a6c55408b10"      "d:\privateprojects\ahmed-graduation\gui-for-gesture-recognizer\binaries\translations\qt_uk.qm"
